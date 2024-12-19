@@ -1,0 +1,14 @@
+<option value="Dự Trưởng">Dự Trưởng</option>
+<option value="Dự Tòng">Dự Tòng</option>
+<option value="Vào Đời 2">Vào Đời 2</option>
+<option value="Vào Đời 1">Vào Đời 1</option>
+<option value="Bao Đồng 3">Bao Đồng 3</option>
+<option value="Bao Đồng 2">Bao Đồng 2</option>
+<option value="Bao Đồng 1">Bao Đồng 1</option>
+<option value="Thêm Sức 2">Thêm Sức 2</option>
+<option value="Thêm Sức 1">Thêm Sức 1</option>
+<option value="Rước lễ 2">Rước lễ 2</option>
+<option value="Rước lễ 1">Rước lễ 1</option>
+<option value="Khai Tâm 2">Khai Tâm 2</option>
+<option value="Khai Tâm 1">Khai Tâm 1</option>
+<option value="pg">Nursery</option>
